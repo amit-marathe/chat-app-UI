@@ -163,5 +163,5 @@ function view(x){
     else{}
 }
 
-var x = window.matchMedia("(max-width: 360px)");
+var x = window.matchMedia("(max-width: 480px)");
 view(x);
