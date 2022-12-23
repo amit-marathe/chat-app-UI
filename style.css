@@ -521,7 +521,7 @@ html,body{
 
 /* ===============================================media querry=========================================== */
 
-@media screen and ( max-width: 360px){
+@media screen and ( max-width: 480px){
     #main{
         height: 100%;
         width: 100%;
